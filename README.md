@@ -6,7 +6,7 @@
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow)](https://huggingface.co/spaces/maxin-cn/Cinemo)
 
 > [**Training-free Stylized Text-to-Image Generation with Fast Inference**](https://maxin-cn.github.io/cinemo_project/)<br>
-> [Xin Ma](https://maxin-cn.github.io/), [Yaohui Wang*†](https://wyhsirius.github.io/), [Xinyuan Chen](https://scholar.google.com/citations?user=3fWSC8YAAAAJ), [Tien-Tsin Wong](https://ttwong12.github.io/myself.html), [Cunjian Chen*](https://cunjian.github.io/) <br>
+> [Xin Ma](https://maxin-cn.github.io/), [Yaohui Wang*](https://wyhsirius.github.io/), [Xinyuan Chen](https://scholar.google.com/citations?user=3fWSC8YAAAAJ), [Tien-Tsin Wong](https://ttwong12.github.io/myself.html), [Cunjian Chen*](https://cunjian.github.io/) <br>
 > (*Corresponding authors)
 
 This repo contains sampling code of OmniPainter. Please visit our [project page](https://maxin-cn.github.io/cinemo_project/) for more results.
@@ -48,7 +48,7 @@ Related model weights will be downloaded automatically and following results can
 <table style="width:100%; text-align:center;">
 <tr>
   <td align="center">Style images</td>
-  <td align="center" colspan="3">"Generated Images"</td>
+  <td align="center" colspan="3">Generated Images</td>
 </tr>
 <tr>
   <td align="center"><img src="visuals/style_images/pablo-picasso_bathing-1908.jpg" width="100%"></td>
