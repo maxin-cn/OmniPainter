@@ -34,7 +34,7 @@ def main():
     args.add_argument("--width", type=int, default=512)
     args.add_argument("--cfg_guidance", type=float, default=2)
     args.add_argument("--sty_guidance", type=float, default=1.2)
-    args.add_argument("--prompt", type=str, default='face')
+    args.add_argument("--prompt", type=str, default='')
     args.add_argument("--neg_prompt", type=str, default='')
     args.add_argument("--output", type=str, default='./results/')
     args.add_argument("--style", type=str, default=None)
