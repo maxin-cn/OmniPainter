@@ -12,7 +12,7 @@ from diffusers import LCMScheduler
 from torchvision.utils import save_image
 from utils.attn_control import AttentionStyle
 from models.unet_2d_condition import UNet2DConditionModel
-from pipelines.unisty_pipeline import UniStyLatentConsistencyModelPipeline
+from pipelines.omnipainter_pipeline import UniStyLatentConsistencyModelPipeline
 
 def load_image(image_path, res, device, gray=False):
     image = Image.open(image_path).convert('RGB') if not gray else Image.open(image_path).convert('L')
