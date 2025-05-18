@@ -2,7 +2,7 @@ export CUDA_VISIBLE_DEVICES=3
 
 python main.py \
 --output './results' \
---style './style_images' \
+--style './visuals/style_images' \
 --sty_guidance 1.15 \
 --num_inference_steps 6 \
 --cfg_guidance 7.0 \
