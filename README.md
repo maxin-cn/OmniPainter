@@ -101,4 +101,4 @@ OmniPainter has been greatly inspired by the following amazing works and teams: 
 
 
 ## License
-The code and model weights are licensed under [LICENSE](LICENSE).
+The codes are licensed under [LICENSE](LICENSE).
