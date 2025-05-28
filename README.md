@@ -8,7 +8,7 @@
 > [Xin Ma](https://maxin-cn.github.io/), [Yaohui Wang*](https://wyhsirius.github.io/), [Xinyuan Chen](https://scholar.google.com/citations?user=3fWSC8YAAAAJ), [Tien-Tsin Wong](https://ttwong12.github.io/myself.html), [Cunjian Chen*](https://cunjian.github.io/) <br>
 > (*Corresponding authors)
 
-This repo contains sampling code of OmniPainter. Please visit our [project page](https://maxin-cn.github.io/cinemo_project/) for more results.
+This repo contains sampling code of OmniPainter. Please visit our [project page](https://maxin-cn.github.io/omnipainter_project/) for more results.
 
 <!--
 In this project, we propose a novel stylized image generation method leveraging a pre-trained large-scale diffusion model without requiring fine-tuning or any additional optimization, termed as OmniPainter. Specifically, we exploit the self-consistency property of latent consistency models to extract the representative style statistics from reference style images to guide the stylization process. Additionally, we then introduce the norm mixture of self-attention, which enables the model to query the most relevant style patterns from these statistics for the intermediate output content features. This mechanism also ensures that the stylized results align closely with the distribution of the reference style images.
