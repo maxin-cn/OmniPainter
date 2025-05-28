@@ -4,7 +4,7 @@
 [![Arxiv](https://img.shields.io/badge/Arxiv-b31b1b.svg)](https://arxiv.org/abs/2505.19063) 
 [![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://maxin-cn.github.io/omnipainter_project/)
 
-> [**Training-free Stylized Text-to-Image Generation with Fast Inference**](https://maxin-cn.github.io/cinemo_project/)<br>
+> [**Training-free Stylized Text-to-Image Generation with Fast Inference**](https://maxin-cn.github.io/omnipainter_project/)<br>
 > [Xin Ma](https://maxin-cn.github.io/), [Yaohui Wang*](https://wyhsirius.github.io/), [Xinyuan Chen](https://scholar.google.com/citations?user=3fWSC8YAAAAJ), [Tien-Tsin Wong](https://ttwong12.github.io/myself.html), [Cunjian Chen*](https://cunjian.github.io/) <br>
 > (*Corresponding authors)
 
