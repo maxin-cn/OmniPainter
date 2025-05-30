@@ -83,16 +83,16 @@ Related model weights will be downloaded automatically and following results can
 Xin Ma: xin.ma1@monash.edu,
 Yaohui Wang: wangyaohui@pjlab.org.cn 
 
-<!-- ## Citation
+## Citation
 If you find this work useful for your research, please consider citing it.
 ```bibtex
-@article{ma2024cinemo,
-  title={Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models},
-  author={Ma, Xin and Wang, Yaohui and Jia, Gengyun and Chen, Xinyuan and Wong, Tien-Tsin and Li, Yuan-Fang and Chen, Cunjian},
-  journal={arXiv preprint arXiv:2407.15642},
-  year={2024}
+@article{ma2025omnipainter,
+  title={Training-free Stylized Text-to-Image Generation with Fast Inference},
+  author={Ma, Xin and Wang, Yaohui and Chen, Xinyuan and Wong, Tien-Tsin and Chen, Cunjian},
+  journal={arXiv preprint arXiv:2505.19063},
+  year={2025}
 }
-``` -->
+```
 
 
 ## Acknowledgments
